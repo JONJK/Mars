@@ -2,7 +2,7 @@
 
 Es Un Instalador de distribuciones Linux En Termux ....
 
-# ~_Instalacion_~
+# _Instalacion_
 
 git clone https://github.com/JONJK/Mars
 
